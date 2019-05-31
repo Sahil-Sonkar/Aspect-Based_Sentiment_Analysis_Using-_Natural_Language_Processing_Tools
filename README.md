@@ -1,0 +1,2 @@
+# Aspect-Based_Sentiment_Analysis_Using-_Natural_Language_Processing_Tools
+We will make a hybrid sentiment analysis algorithm which will take restaurant reviews as input and output the review score based on different aspects. In our algorithm we check the review in four aspects ambience, service, food and price. We employ methods to determine positive or negative rating on the four aspects. We will use a dataset in which each review is under hundred words.
