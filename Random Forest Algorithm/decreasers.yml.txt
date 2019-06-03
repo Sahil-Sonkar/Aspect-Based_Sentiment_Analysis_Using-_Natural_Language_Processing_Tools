@@ -1,6 +1,0 @@
-barely: [dec]
-little: [dec]
-kinda: [dec]
-maybe: [dec]
-mostly: [dec]
-sorta: [dec]
