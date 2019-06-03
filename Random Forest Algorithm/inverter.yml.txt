@@ -1,6 +1,0 @@
-lack of: [inv]
-not: [inv]
-didn't: [inv]
-don't: [inv]
-can't: [inv]
-won't: [inv]
